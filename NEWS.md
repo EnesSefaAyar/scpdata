@@ -1,5 +1,9 @@
 # scpdata 1.17
 
+## scpdata 1.17.2
+
+- Fix colData of krull2024() dataset.
+
 ## scpdata 1.17.1
 
 - Fix encoding in man page.
